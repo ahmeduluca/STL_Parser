@@ -1,0 +1,306 @@
+2019-08-10 00:15:14,603 [INFO] Activator:176 - 
+
+
+2019-08-10 00:15:14,608 [INFO] Activator:177 - !SESSION log4j initialized
+2019-08-10 00:15:45,546 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926
+2019-08-10 00:15:45,562 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/mcu/
+2019-08-10 00:15:45,567 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/boardmanager/
+2019-08-10 00:15:45,567 [INFO] DbMcus:262 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/images/
+2019-08-10 00:15:45,570 [INFO] DbBoards:225 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/images/
+2019-08-10 00:15:45,574 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/mcu/
+2019-08-10 00:15:45,582 [INFO] DbMcusAds:72 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:45,584 [INFO] DbMcusDocs:90 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:45,586 [INFO] DbMcusJson:59 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:45,587 [INFO] DbBoardsDocs:82 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:45,589 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:45,755 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-08-10 00:15:45,889 [INFO] RulesReader:52 - Compatibility file has been processed (156 Rules)
+2019-08-10 00:15:45,999 [INFO] MicroXplorer:521 - Detected Java Version = 1.8.0_202
+2019-08-10 00:15:45,999 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/mcu/
+2019-08-10 00:15:45,999 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/boardmanager/
+2019-08-10 00:15:46,001 [INFO] DbMcus:262 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/images/
+2019-08-10 00:15:46,001 [INFO] DbBoards:225 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/images/
+2019-08-10 00:15:46,001 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/mcu/
+2019-08-10 00:15:46,001 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,002 [INFO] DbMcusAds:72 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,002 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,002 [INFO] DbMcusDocs:90 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,002 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,002 [INFO] DbMcusJson:59 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,003 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,003 [INFO] DbBoardsDocs:82 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,003 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,003 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,003 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,004 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,004 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-08-10 00:15:46,100 [INFO] MainPanel:211 - HeapMemory: 277872640
+2019-08-10 00:15:46,177 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/mcu/
+2019-08-10 00:15:46,178 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/boardmanager/
+2019-08-10 00:15:46,178 [INFO] DbMcus:262 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/images/
+2019-08-10 00:15:46,178 [INFO] DbBoards:225 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/images/
+2019-08-10 00:15:46,179 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/plugins/mcufinder/mcu/
+2019-08-10 00:15:46,179 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,180 [INFO] DbMcusAds:72 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,180 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,180 [INFO] DbMcusDocs:90 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,180 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,181 [INFO] DbMcusJson:59 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,181 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,181 [INFO] DbBoardsDocs:82 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,181 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,181 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/
+2019-08-10 00:15:46,182 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,182 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder/ => C:\Users\ARGE5\.stmcufinder\plugins\mcufinder
+2019-08-10 00:15:46,182 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-08-10 00:15:46,209 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926
+2019-08-10 00:15:46,211 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2019-08-10 00:15:46,212 [INFO] PluginManage:292 - Check plugin analytics
+2019-08-10 00:15:46,219 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2019-08-10 00:15:46,219 [INFO] PluginManage:292 - Check plugin clock
+2019-08-10 00:15:46,229 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2019-08-10 00:15:46,230 [INFO] PluginManage:292 - Check plugin ddr
+2019-08-10 00:15:46,235 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2019-08-10 00:15:46,235 [INFO] PluginManage:292 - Check plugin filemanager
+2019-08-10 00:15:46,374 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2019-08-10 00:15:46,374 [INFO] PluginManage:292 - Check plugin ipmanager
+2019-08-10 00:15:46,385 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2019-08-10 00:15:46,385 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2019-08-10 00:15:46,396 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2019-08-10 00:15:46,396 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2019-08-10 00:15:46,425 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2019-08-10 00:15:46,426 [INFO] PluginManage:292 - Check plugin power
+2019-08-10 00:15:46,433 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2019-08-10 00:15:46,434 [INFO] PluginManage:292 - Check plugin projectmanager
+2019-08-10 00:15:46,452 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2019-08-10 00:15:46,452 [INFO] PluginManage:292 - Check plugin thirdparty
+2019-08-10 00:15:46,503 [INFO] ThirdPartyDb:293 - Open Third Party DataBase File (C:/Users/ARGE5/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 27 ms. number of Sw pack : 6
+2019-08-10 00:15:46,517 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2019-08-10 00:15:46,518 [INFO] PluginManage:292 - Check plugin tools
+2019-08-10 00:15:46,520 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2019-08-10 00:15:46,521 [INFO] PluginManage:292 - Check plugin updater
+2019-08-10 00:15:46,537 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2019-08-10 00:15:46,537 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2019-08-10 00:15:46,751 [INFO] PinOutPanel:1361 - setPackage(No Configuration,No Configuration)
+2019-08-10 00:15:46,850 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2019-08-10 00:15:46,854 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2019-08-10 00:15:46,857 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2019-08-10 00:15:46,859 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2019-08-10 00:15:46,862 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2019-08-10 00:15:46,865 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2019-08-10 00:15:46,873 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2019-08-10 00:15:46,875 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2019-08-10 00:15:46,880 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2019-08-10 00:15:46,887 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2019-08-10 00:15:46,890 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2019-08-10 00:15:46,892 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2019-08-10 00:15:46,895 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2019-08-10 00:15:46,902 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2019-08-10 00:15:46,906 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2019-08-10 00:15:46,909 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2019-08-10 00:15:46,913 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2019-08-10 00:15:46,916 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2019-08-10 00:15:46,921 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2019-08-10 00:15:46,923 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2019-08-10 00:15:46,928 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2019-08-10 00:15:46,934 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2019-08-10 00:15:46,938 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2019-08-10 00:15:46,941 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2019-08-10 00:15:46,952 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2019-08-10 00:15:46,955 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2019-08-10 00:15:46,959 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2019-08-10 00:15:46,962 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2019-08-10 00:15:46,966 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2019-08-10 00:15:46,968 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2019-08-10 00:15:46,970 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2019-08-10 00:15:46,973 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2019-08-10 00:15:46,975 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2019-08-10 00:15:46,977 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2019-08-10 00:15:46,979 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2019-08-10 00:15:46,982 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2019-08-10 00:15:46,985 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2019-08-10 00:15:48,168 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-08-10 00:15:48,460 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-08-10 00:15:48,465 [INFO] PinOutPanel:1361 - setPackage(No Configuration,No Configuration)
+2019-08-10 00:15:48,466 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-08-10 00:15:48,476 [INFO] Updater:860 - Updater Version found : 5.2.1
+2019-08-10 00:15:48,490 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926
+2019-08-10 00:15:48,627 [INFO] MainUpdater:2032 - connection check result : 10
+2019-08-10 00:15:48,630 [INFO] MainUpdater:223 - Updater Check For Update Now.
+2019-08-10 00:15:48,630 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.21
+2019-08-10 00:15:48,675 [INFO] CheckServerUpdateThread:121 - End of CheckServer Thread
+2019-08-10 00:15:48,832 [INFO] MainUpdater:2032 - connection check result : 10
+2019-08-10 00:15:48,833 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-08-10 00:15:48,927 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2019-08-10 00:15:48,949 [INFO] FinderPluginLoader:85 - Searching for filters in installed packs
+2019-08-10 00:15:48,950 [INFO] DbMcusXml:106 - Load MCU database from C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\/mcu/families.xml
+2019-08-10 00:15:49,567 [INFO] ThirdPartyDb:263 - Close Third Party DataBase File (C:/Users/ARGE5/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-08-10 00:15:49,622 [INFO] ThirdPartyDb:293 - Open Third Party DataBase File (C:/Users/ARGE5/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 8 ms. number of Sw pack : 6
+2019-08-10 00:15:49,623 [INFO] ThirdPartyDb:263 - Close Third Party DataBase File (C:/Users/ARGE5/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-08-10 00:15:49,646 [INFO] IntegrityCheckThread:94 - End integrity checks thread
+2019-08-10 00:15:49,859 [INFO] DbMcusJson:87 - JSON generation date=Fri Jul 19 13:04:23 AST 2019 (1563530663)
+2019-08-10 00:15:51,190 [INFO] DbMcus:192 - Found 1486 MCUs (1445 are supported by CubeMX, 1445 are visible in CubeMX)
+2019-08-10 00:15:51,191 [INFO] ApiDb:158 - Load user favorites file C:\Users\ARGE5/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2019-08-10 00:15:51,191 [INFO] ApiDb:163 - User favorites MCUs=[]
+2019-08-10 00:15:51,191 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2019-08-10 00:15:51,931 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 19:46:15 AST 2019 (1550681175)
+2019-08-10 00:15:51,946 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2019-08-10 00:15:51,963 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/ARGE5/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2019-08-10 00:15:52,548 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2019-08-10 00:15:52,744 [INFO] DbBoardsPdsc:92 - Found 18 items
+2019-08-10 00:15:52,748 [INFO] DbBoardsPdsc:92 - Found 9 items
+2019-08-10 00:15:52,753 [INFO] DbBoardsPdsc:92 - Found 27 items
+2019-08-10 00:15:52,755 [INFO] DbBoardsPdsc:92 - Found 1 items
+2019-08-10 00:15:52,763 [INFO] DbBoardsPdsc:92 - Found 35 items
+2019-08-10 00:15:52,774 [INFO] DbBoardsPdsc:92 - Found 37 items
+2019-08-10 00:15:52,822 [INFO] DbBoardsJson:79 - JSON generation date=Thu Jul 04 17:02:38 AST 2019 (1562248958)
+2019-08-10 00:15:52,830 [INFO] DbBoards:120 - Found 127 boards (126 are supported by CubeMX)
+2019-08-10 00:15:52,834 [INFO] DbBoardsDocs:119 - JSON generation date=Fri Jul 19 13:04:23 AST 2019 (1563530663)
+2019-08-10 00:15:52,842 [INFO] DbBoardsDocs:55 - Found 151 boards documents
+2019-08-10 00:15:52,843 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2019-08-10 00:15:52,844 [WARN] DbBoards:130 - board NUCLEO-G031K8 has no document id list !
+2019-08-10 00:15:52,845 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2019-08-10 00:15:52,845 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2019-08-10 00:15:52,846 [WARN] DbBoards:130 - board P-NUCLEO-WB55 has no document id list !
+2019-08-10 00:15:52,846 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2019-08-10 00:15:52,847 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2019-08-10 00:15:52,847 [WARN] DbBoards:130 - board STM32F7308-DISCO has no document id list !
+2019-08-10 00:15:52,847 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2019-08-10 00:15:52,848 [WARN] DbBoards:130 - board STM32G0316-DISCO has no document id list !
+2019-08-10 00:15:52,848 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2019-08-10 00:15:52,849 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2019-08-10 00:15:52,849 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2019-08-10 00:15:52,850 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2019-08-10 00:15:52,850 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2019-08-10 00:15:52,850 [WARN] DbBoards:130 - board STM32H747I-EVAL has no document id list !
+2019-08-10 00:15:52,850 [WARN] DbBoards:130 - board STM32H757I-EVAL has no document id list !
+2019-08-10 00:15:52,851 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2019-08-10 00:15:54,039 [INFO] ApiDb:158 - Load user favorites file C:\Users\ARGE5/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2019-08-10 00:15:54,039 [INFO] ApiDb:163 - User favorites Boards=[]
+2019-08-10 00:15:54,040 [INFO] DbBoards:202 - Set 0 / 0 favorites Boards
+2019-08-10 00:15:54,122 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2019-08-10 00:15:54,123 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/ARGE5/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2019-08-10 00:15:54,155 [INFO] BoardFilterPanel:212 - Update 0 favorites Boards
+2019-08-10 00:15:54,457 [INFO] CrossSelectorPresenter:1239 - Cross Selector saved comparison directory: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2019-08-10 00:16:24,156 [INFO] DbMcusDocs:127 - JSON generation date=Fri Jul 19 13:04:23 AST 2019 (1563530663)
+2019-08-10 00:16:24,270 [INFO] DbMcusDocs:59 - Found 531 MCUs documents
+2019-08-10 00:16:38,711 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] withoutVersionV1.7.0
+2019-08-10 00:16:38,868 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] File copied successfully!!
+2019-08-10 00:16:46,743 [INFO] MainUpdater:2032 - connection check result : 10
+2019-08-10 00:16:46,744 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-08-10 00:16:46,816 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-08-10 00:16:46,817 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.21
+2019-08-10 00:16:46,821 [INFO] PinOutPanel:1361 - setPackage(No Configuration,No Configuration)
+2019-08-10 00:16:46,822 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 349277088 Bytes (455081984)
+2019-08-10 00:16:46,823 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-08-10 00:16:46,823 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.21
+2019-08-10 00:16:46,823 [INFO] OpenFileManager:269 - Change cursor
+2019-08-10 00:16:51,302 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2019-08-10 00:16:51,303 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2019-08-10 00:16:51,303 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2019-08-10 00:16:51,785 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 321826928 Bytes (455081984)
+2019-08-10 00:16:51,878 [INFO] ThirdPartyDb:293 - Open Third Party DataBase File (C:/Users/ARGE5/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 2 ms. number of Sw pack : 6
+2019-08-10 00:16:52,110 [INFO] ThirdParty:1207 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-08-10 00:16:52,111 [INFO] ThirdParty:1207 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.1.0
+2019-08-10 00:16:52,111 [INFO] ThirdParty:1207 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.0
+2019-08-10 00:16:52,111 [INFO] ThirdParty:1207 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-08-10 00:16:52,111 [INFO] ThirdParty:1207 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-08-10 00:16:52,304 [INFO] PinOutPanel:1361 - setPackage(No Configuration,No Configuration)
+2019-08-10 00:16:52,306 [INFO] PinOutPanel:1361 - setPackage(STM32F103C8Tx,LQFP48)
+2019-08-10 00:16:52,841 [INFO] UtilMem:74 - Before build in PCC Used Memory: 374420712 Bytes (455081984)
+2019-08-10 00:16:53,137 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/ARGE5/.stm32cubemx/plugins/power
+2019-08-10 00:16:53,139 [INFO] UtilMem:74 - After build in PCC Used Memory: 385955048 Bytes (455081984)
+2019-08-10 00:16:53,178 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-08-10 00:16:53,317 [INFO] OpenFileManager:289 - Restore cursor
+2019-08-10 00:16:53,622 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 221166528 Bytes (455081984)
+2019-08-10 00:16:53,691 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 224057312 Bytes (455081984)
+2019-08-10 00:16:54,382 [INFO] BlockDiagram:1879 - set Specific Code input for plugin: NVIC
+2019-08-10 00:16:54,382 [INFO] BlockDiagram:1879 - set Specific Code input for plugin: SYS
+2019-08-10 00:16:54,384 [INFO] CodeGenerator:572 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\
+2019-08-10 00:16:54,907 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\license.tmp_save
+2019-08-10 00:16:55,475 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\license.tmp
+2019-08-10 00:16:55,652 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Command line
+2019-08-10 00:16:55,655 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-08-10 00:16:55,657 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Command line test
+2019-08-10 00:16:55,661 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-08-10 00:16:55,663 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Command line test
+2019-08-10 00:16:55,680 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_it.c_save
+2019-08-10 00:16:55,992 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_it.c
+2019-08-10 00:16:56,002 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_it.h_save
+2019-08-10 00:16:56,176 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_it.h
+2019-08-10 00:16:56,193 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_hal_msp.c_save
+2019-08-10 00:16:56,576 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_hal_msp.c
+2019-08-10 00:16:56,585 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\system.tmp_save
+2019-08-10 00:16:56,718 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\system.tmp
+2019-08-10 00:16:56,729 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_hal_conf.h_save
+2019-08-10 00:16:56,852 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_hal_conf.h
+2019-08-10 00:16:56,884 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\main.h_save
+2019-08-10 00:16:57,044 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\main.h
+2019-08-10 00:16:57,057 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\main.c_save
+2019-08-10 00:16:57,259 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\main.c
+2019-08-10 00:16:58,535 [INFO] ProjectBuilder:1500 - Time for Copy HAL[1] : 86mS.
+2019-08-10 00:16:58,544 [INFO] ProjectBuilder:2068 - Project Generator version: 3.3.0
+2019-08-10 00:16:59,194 [INFO] ConfigFileManager:883 - The Die is : DIE410
+2019-08-10 00:16:59,210 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] configName ==Arm Cortex-M3
+2019-08-10 00:16:59,456 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="20"
+2019-08-10 00:16:59,458 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="64"
+2019-08-10 00:16:59,711 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-08-10 00:16:59,713 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] method name===============generate
+2019-08-10 00:17:04,628 [INFO] ProjectBuilder:2161 - Time for Generating toolchain IDE Files: 6084mS.
+2019-08-10 00:17:04,630 [INFO] ProjectBuilder:1391 - Time for Copy CMSIS : 1mS.
+2019-08-10 00:17:04,632 [INFO] ProjectBuilder:1391 - Time for Copy CMSIS : 0mS.
+2019-08-10 00:17:55,144 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2019-08-10 00:18:10,439 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Tab changed to: Pinout & Configuration
+2019-08-10 00:18:14,405 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 356879384 Bytes (768606208)
+2019-08-10 00:18:16,257 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 363693088 Bytes (768606208)
+2019-08-10 00:18:16,457 [INFO] BlockDiagram:1879 - set Specific Code input for plugin: NVIC
+2019-08-10 00:18:16,458 [INFO] BlockDiagram:1879 - set Specific Code input for plugin: SYS
+2019-08-10 00:18:16,458 [INFO] BlockDiagram:1879 - set Specific Code input for plugin: RCC
+2019-08-10 00:18:16,459 [INFO] CodeGenerator:572 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_1.0.0.201906050926\\db\
+2019-08-10 00:18:16,687 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\license.tmp_save
+2019-08-10 00:18:16,801 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\license.tmp
+2019-08-10 00:18:16,831 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\gpio.tmp_save
+2019-08-10 00:18:16,932 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\gpio.tmp
+2019-08-10 00:18:16,941 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Command line
+2019-08-10 00:18:16,943 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-08-10 00:18:16,944 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Command line test
+2019-08-10 00:18:16,947 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-08-10 00:18:16,948 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Command line test
+2019-08-10 00:18:16,956 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_it.c_save
+2019-08-10 00:18:17,083 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_it.c
+2019-08-10 00:18:17,090 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_it.h_save
+2019-08-10 00:18:17,188 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_it.h
+2019-08-10 00:18:17,202 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_hal_msp.c_save
+2019-08-10 00:18:17,344 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\stm32f1xx_hal_msp.c
+2019-08-10 00:18:17,351 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\system.tmp_save
+2019-08-10 00:18:17,423 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\MXTmpFiles\system.tmp
+2019-08-10 00:18:17,429 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_hal_conf.h_save
+2019-08-10 00:18:17,547 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\stm32f1xx_hal_conf.h
+2019-08-10 00:18:17,563 [WARN] IPConfigManager:2556 - IP not found : gpio
+2019-08-10 00:18:17,564 [WARN] CodeGenerator:2532 - IP not found : gpio
+2019-08-10 00:18:17,573 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\main.h_save
+2019-08-10 00:18:17,708 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Inc\main.h
+2019-08-10 00:18:17,716 [INFO] CodeEngine:190 - oldGeneratedFile, D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\main.c_save
+2019-08-10 00:18:17,843 [INFO] CodeEngine:208 - Generated code: D:\Belgelerim\Project\STM32CubeIDE\STL_Parser\STL_Parser\Src\main.c
+2019-08-10 00:18:18,433 [INFO] ProjectBuilder:1500 - Time for Copy HAL[1] : 73mS.
+2019-08-10 00:18:18,435 [INFO] ProjectBuilder:2068 - Project Generator version: 3.3.0
+2019-08-10 00:18:18,685 [INFO] ConfigFileManager:883 - The Die is : DIE410
+2019-08-10 00:18:18,701 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] configName ==Arm Cortex-M3
+2019-08-10 00:18:18,817 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="20"
+2019-08-10 00:18:18,818 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="64"
+2019-08-10 00:18:18,954 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-08-10 00:18:18,956 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] method name===============update
+2019-08-10 00:18:19,537 [INFO] ProjectBuilder:2161 - Time for Generating toolchain IDE Files: 1103mS.
+2019-08-10 00:18:19,539 [INFO] ProjectBuilder:1391 - Time for Copy CMSIS : 1mS.
+2019-08-10 00:18:19,541 [INFO] ProjectBuilder:1391 - Time for Copy CMSIS : 0mS.
+2019-08-10 00:29:33,002 [INFO] MainUpdater:2032 - connection check result : 10
+2019-08-10 00:29:33,005 [INFO] LogOutputStream:68 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-08-10 00:29:33,023 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2019-08-10 00:29:33,024 [INFO] FinderPluginLoader:85 - Searching for filters in installed packs
+2019-08-10 00:29:33,746 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2019-08-10 00:29:33,747 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/ARGE5/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2019-08-10 00:29:34,030 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2019-08-10 00:29:34,222 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2019-08-10 00:29:34,222 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/ARGE5/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2019-08-10 00:29:34,239 [INFO] BoardFilterPanel:212 - Update 0 favorites Boards
+2019-08-10 00:29:34,253 [INFO] CrossSelectorPresenter:1239 - Cross Selector saved comparison directory: C:\Users\ARGE5\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
